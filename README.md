@@ -18,5 +18,5 @@ bug reporting, and end-to-end workflow validation for web and mobile application
 - **Methodologies:** SDLC, STLC, Agile/Scrum
 
 ## Connect
-- LinkedIn: [linkedin.com/in/saayusha]
+- LinkedIn: [(https://www.linkedin.com/in/saayusha/)]
 - Email: sharmaayusha749@gmail.com
